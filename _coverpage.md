@@ -1,4 +1,4 @@
-![AutoMuteUs](https://cdn.discordapp.com/attachments/757629444260233329/780553521879318538/DiscordAmongUs-Transparent.png)
+![AutoMuteUs](https://cdn.discordapp.com/attachments/757629444260233329/780574039533813760/trans_server.gif)
 
 >  AutoMuteUs is a Discord Bot to harness Among Us game data, and automatically mute/unmute players during games!
 
@@ -8,7 +8,3 @@
 
 [Get Started](#use)
 [Discord](https://discord.gg/B84356MFSg)
-
-
-<!-- background color -->
-![color](#0b000e)
