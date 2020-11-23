@@ -1,0 +1,1 @@
+- [Latest Capture](https://github.com/denverquane/amonguscapture/releases/latest/)

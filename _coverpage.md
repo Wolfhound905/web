@@ -6,9 +6,8 @@
 - Automatically mute without any manual intervention
 - Allow dead players to talk to each other
 
-[Discord](https://discord.gg/B84356MFSg)
-[Latest Capture Release](https://github.com/denverquane/amonguscapture/releases/latest/)
 [Get Started](#use)
+[Discord](https://discord.gg/B84356MFSg)
 
 
 <!-- background color -->
