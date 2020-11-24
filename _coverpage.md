@@ -6,5 +6,5 @@
 - Automatically mute without any manual intervention
 - Allow dead players to talk to each other
 
-[Get Started](#use)
+[Quickstart](#quickstart-and-demo-click-the-image)
 [Discord](https://discord.gg/B84356MFSg)

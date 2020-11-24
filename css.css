@@ -8,7 +8,7 @@ p:last-child {
 }
 
 :root {
-    --theme-color: #8c9eff;
+    --theme-hue: 215;
     --cover-blockquote-color: #8c9eff;
     --base-font-family: Lato;
     --cover-background-image: url(https://cdn.discordapp.com/attachments/760288648322875402/780572692235550740/AutoBG.png);

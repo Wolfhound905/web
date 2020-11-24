@@ -1,1 +1,7 @@
 - [Latest Capture](https://github.com/denverquane/amonguscapture/releases/latest/)
+- [Add the Bot](https://add.automute.us/)
+- [GitHub]
+    - [automuteus](https://github.com/denverquane/automuteus)
+    - [amonguscapture](https://github.com/denverquane/amonguscapture)
+    - [galactus](https://github.com/automuteus/galactus)
+    - [website](https://github.com/automuteus/web)
