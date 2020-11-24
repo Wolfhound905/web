@@ -1,4 +1,4 @@
-- [Latest Capture](https://github.com/denverquane/amonguscapture/releases/latest/)
+- [Latest Capture](https://capture.automute.us/)
 - [Add the Bot](https://add.automute.us/)
 - [GitHub]
     - [automuteus](https://github.com/denverquane/automuteus)
