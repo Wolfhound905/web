@@ -1,3 +1,3 @@
 - Capture
-
     - [Capture Bot](capture/capture-bot.md)
+- [Privacy Policy](./PRIVACY.md)
