@@ -1,5 +1,6 @@
 - [Latest Capture](https://capture.automute.us/)
 - [Add the Bot](https://add.automute.us/)
+- [Privacy Policy](./PRIVACY.md)
 - [GitHub]
     - [automuteus](https://github.com/denverquane/automuteus)
     - [amonguscapture](https://github.com/denverquane/amonguscapture)
